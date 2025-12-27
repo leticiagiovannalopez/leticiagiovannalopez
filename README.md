@@ -52,7 +52,7 @@ me.say_hi()
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎯 Projeto em Destaque
+## 🎯 Projetos em Destaque
 
 ### 🤖 [Monitoramento de Risco Operacional](https://github.com/leticiagiovannalopez/monitoramento-risco-operacional)
 Sistema de machine learning para previsão e monitoramento de riscos operacionais em instituições financeiras. Projeto pessoal desenvolvido para aprender ML aplicado.
