@@ -6,9 +6,9 @@
 
 ## 💜 Sobre mim
 
-Atualmente trabalho como **Full Stack Developer** na Dexos, desenvolvendo **sistemas corporativos** e dashboards utilizando PHP Laravel, Node.js, Vue.js e MongoDB.
+Sou movida por **curiosidade**. Gosto de entender o "porquê" por trás do código, não apenas fazer funcionar. Atualmente trabalho como **Full Stack Developer** na Dexos, desenvolvendo **sistemas corporativos** e dashboards utilizando PHP Laravel, Node.js, Vue.js e MongoDB.
 
-Nos meus estudos pessoais, estou mergulhando em **Python**, **análise de dados** e **machine learning**, com foco em aplicações para o setor financeiro.
+Nos meus estudos pessoais, estou mergulhando em **Python**, **análise de dados** e **machine learning**.
 
 ```python
 class LeticiaLopez:
@@ -17,8 +17,8 @@ class LeticiaLopez:
         self.company = "Dexos"
         self.current_stack = ["PHP", "Laravel", "Vue.js", "Node.js", "MongoDB"]
         self.studying = ["Python", "Data Analysis", "Machine Learning"]
-        self.interests = ["FinTech", "Data Science", "System Design"]
-        self.goal = "Trabalhar com dados e ML no setor financeiro"
+        self.interests = ["Data Science", "System Design", "Backend Architecture"]
+        self.goal = "Trabalhar com dados e ML"
     
     def say_hi(self):
         print("Vamos construir algo incrível juntos!")
@@ -55,25 +55,19 @@ me.say_hi()
 ## 🎯 Projeto em Destaque
 
 ### 🤖 [Monitoramento de Risco Operacional](https://github.com/leticiagiovannalopez/monitoramento-risco-operacional)
-Sistema de machine learning para previsão e monitoramento de riscos operacionais em instituições financeiras. Projeto pessoal desenvolvido para aprender ML aplicado ao setor bancário.
+Sistema de machine learning para previsão e monitoramento de riscos operacionais em instituições financeiras. Projeto pessoal desenvolvido para aprender ML aplicado.
 
 **Tech Stack:** Python · FastAPI · Random Forest · PostgreSQL · Pandas · Jupyter
 
 **Destaques:**
 - 📊 Análise preditiva com algoritmos de ML
-- 🏦 Foco em aplicações para o setor financeiro
 - 🔍 Processamento e análise de dados complexos
 - 🚀 API REST com FastAPI
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiagiovannalopez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiagiovannalopez&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiagiovannalopez&theme=dracula&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiagiovannalopez&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Vamos conectar!
