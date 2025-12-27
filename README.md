@@ -6,7 +6,7 @@
 
 ## 💜 Sobre mim
 
-Atualmente estou estagiando na Dexos, trabalho como **Full Stack Developer**, desenvolvendo **sistemas corporativos** e dashboards utilizando PHP Laravel, Node.js, Vue.js e MongoDB.
+Atualmente trabalho como **Full Stack Developer** na Dexos, desenvolvendo **sistemas corporativos** e dashboards utilizando PHP Laravel, Node.js, Vue.js e MongoDB.
 
 Nos meus estudos pessoais, estou mergulhando em **Python**, **análise de dados** e **machine learning**.
 
@@ -63,12 +63,6 @@ Sistema de machine learning para previsão e monitoramento de riscos operacionai
 - 📊 Análise preditiva com algoritmos de ML
 - 🔍 Processamento e análise de dados complexos
 - 🚀 API REST com FastAPI
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiagiovannalopez&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🌐 Vamos conectar!
 
