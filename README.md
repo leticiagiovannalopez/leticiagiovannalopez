@@ -6,7 +6,7 @@
 
 ## 💜 Sobre mim
 
-Atualmente sou estagiária na Dexos, trabalho como **Full Stack Developer**, desenvolvendo **sistemas corporativos** e dashboards utilizando PHP Laravel, Node.js, Vue.js e MongoDB.
+Atualmente estou estagiando na Dexos, trabalho como **Full Stack Developer**, desenvolvendo **sistemas corporativos** e dashboards utilizando PHP Laravel, Node.js, Vue.js e MongoDB.
 
 Nos meus estudos pessoais, estou mergulhando em **Python**, **análise de dados** e **machine learning**.
 
