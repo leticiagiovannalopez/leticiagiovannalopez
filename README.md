@@ -6,7 +6,7 @@
 
 ## 💜 Sobre mim
 
-Sou movida por **curiosidade**. Gosto de entender o "porquê" por trás do código, não apenas fazer funcionar. Atualmente trabalho como **Full Stack Developer** na Dexos, desenvolvendo **sistemas corporativos** e dashboards utilizando PHP Laravel, Node.js, Vue.js e MongoDB.
+Atualmente trabalho como **Full Stack Developer** na Dexos, desenvolvendo **sistemas corporativos** e dashboards utilizando PHP Laravel, Node.js, Vue.js e MongoDB.
 
 Nos meus estudos pessoais, estou mergulhando em **Python**, **análise de dados** e **machine learning**.
 
