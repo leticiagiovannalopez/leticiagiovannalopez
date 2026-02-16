@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Letícia Lopez!
+# Olá, eu sou a Letícia Lopez!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=An%C3%A1lise+de+Dados;IA+Generativa;Estudando+AWS" alt="Typing SVG" />
