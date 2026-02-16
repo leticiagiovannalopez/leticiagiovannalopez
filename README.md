@@ -1,7 +1,7 @@
-# Olá, eu sou a Letícia Lopez!
+# 👋 Olá, eu sou a Letícia Lopez!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Análise+de+Dados;IA+Generativa;Estudando+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=An%C3%A1lise+de+Dados;IA+Generativa;Estudando+AWS" alt="Typing SVG" />
 </div>
 
 ## 💜 Sobre mim
@@ -30,6 +30,7 @@ me.say_hi()
 ## Stack Tecnológica
 
 ### Desenvolvimento & Dados
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -38,17 +39,21 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Cloud
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Experiência anterior
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Frontend & Tools
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,19 +64,20 @@ me.say_hi()
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiagiovannalopez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiagiovannalopez&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiagiovannalopez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiagiovannalopez&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiagiovannalopez&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiagiovannalopez&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
-## Projeto em Destaque
+## Projetos em Destaque
 
 ### [Monitoramento de Risco Operacional](https://github.com/leticiagiovannalopez/monitoramento-risco-operacional)
+
 Sistema de machine learning para previsão e monitoramento de riscos operacionais em instituições financeiras. Projeto pessoal desenvolvido para aprender ML aplicado.
 
 **Tech Stack:** Python · FastAPI · Random Forest · PostgreSQL · Pandas · Jupyter
@@ -83,7 +89,7 @@ Sistema de machine learning para previsão e monitoramento de riscos operacionai
 
 ---
 
-## 🌐 Vamos conectar!
+## Vamos conectar!
 
 <div align="center">
   
