@@ -63,12 +63,16 @@ me.say_hi()
 
 ### Tools & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
 ## Projetos em Destaque
+
+---
 
 ### [Monitoramento de Risco Operacional](https://github.com/leticiagiovannalopez/monitoramento-risco-operacional)
 
@@ -94,7 +98,6 @@ API REST em Java/Spring Boot para análise de risco financeiro.
 - Modelagem de dados para análise de risco
 - Boas práticas de desenvolvimento backend
 
----
 ## GitHub Stats
 
 <div align="center">
