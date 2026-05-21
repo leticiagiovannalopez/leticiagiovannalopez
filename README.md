@@ -1,24 +1,25 @@
 # Olá, eu sou a Letícia Lopez!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=An%C3%A1lise+de+Dados;IA+Generativa;Estudando+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Engenharia+de+Software;IA+Generativa;Backend+%26+Dados;Estudando+AWS" alt="Typing SVG" />
 </div>
 
 ## 💜 Sobre mim
 
-Atualmente trabalho como **Estagiária de Análise de Dados** no **Itaú**, trabalhando com análise de dados bancários, dashboards e KPIs.
+Atualmente trabalho como **Estagiária de Engenharia de Software** no **Itaú**, desenvolvendo soluções backend, automações e aplicações com IA generativa.
 
 Sou estudante de **Engenharia de Software** na Universidade Cruzeiro do Sul.
+
 ```python
 class LeticiaLopez:
     def __init__(self):
-        self.role = "Estagiária de Análise de Dados"
+        self.role = "Estagiária de Engenharia de Software"
         self.company = "Itaú"
         self.education = "Engenharia de Software - Cruzeiro do Sul"
-        self.stack = ["Python", "Pandas", "FastAPI", "PostgreSQL", "AWS"]
-        self.studying = ["Machine Learning", "Data Analysis", "Cloud Computing"]
-        self.interests = ["Data Science", "Business Intelligence", "IA Generativa"]
-        self.goal = "Trabalhar com dados e IA"
+        self.stack = ["Node.js", "Python", "Java", "React", "PostgreSQL", "AWS"]
+        self.focus = ["Backend Development", "IA Generativa", "Cloud Computing"]
+        self.interests = ["Software Architecture", "Generative AI", "Data Engineering"]
+        self.goal = "Construir soluções escaláveis com impacto real"
     
     def say_hi(self):
         print("Vamos construir algo incrível juntos!")
@@ -29,34 +30,40 @@ me.say_hi()
 
 ## Stack Tecnológica
 
-### Desenvolvimento & Dados
+### Backend & Development
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Dados & ML
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Cloud
+### Database & Cloud
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Experiência anterior
+### Tools & DevOps
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Frontend & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -76,6 +83,18 @@ Sistema de machine learning para previsão e monitoramento de riscos operacionai
 
 ---
 
+### [Risk Analysis API](https://github.com/leticiagiovannalopez/risk.analysis.api)
+
+API REST em Java/Spring Boot para análise de risco financeiro.
+
+**Tech Stack:** Java · Spring Boot · PostgreSQL · JPA/Hibernate
+
+**Destaques:**
+- Arquitetura REST completa
+- Modelagem de dados para análise de risco
+- Boas práticas de desenvolvimento backend
+
+---
 ## GitHub Stats
 
 <div align="center">
