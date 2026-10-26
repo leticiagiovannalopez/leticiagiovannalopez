@@ -101,11 +101,6 @@ API REST em Java/Spring Boot para análise de risco financeiro.
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leticiagiovannalopez&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leticiagiovannalopez&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=leticiagiovannalopez&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
