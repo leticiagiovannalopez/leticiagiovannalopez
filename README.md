@@ -8,9 +8,6 @@
 
 Sou **Engenheira de Software Júnior** no **Itaú**, atuando no desenvolvimento backend com **Java e Spring Boot** em arquitetura orientada a eventos na **AWS**, seguindo DDD, SOLID e Clean Architecture.
 
-Antes, como estagiária, desenvolvi soluções backend, automações e aplicações com IA generativa.
-
-Sou estudante de **Engenharia de Software** na Universidade Cruzeiro do Sul.
 
 ```python
 class LeticiaLopez:
