@@ -1,23 +1,25 @@
 # Olá, eu sou a Letícia Lopez!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Engenharia+de+Software;IA+Generativa;Backend+%26+Dados;Estudando+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Engenheira+de+Software+Jr;Backend+com+Java+%26+Spring;Arquitetura+Orientada+a+Eventos;AWS+%26+Cloud" alt="Typing SVG" />
 </div>
 
 ## 💜 Sobre mim
 
-Atualmente trabalho como **Estagiária de Engenharia de Software** no **Itaú**, desenvolvendo soluções backend, automações e aplicações com IA generativa.
+Sou **Engenheira de Software Júnior** no **Itaú**, atuando no desenvolvimento backend com **Java e Spring Boot** em arquitetura orientada a eventos na **AWS**, seguindo DDD, SOLID e Clean Architecture.
+
+Antes, como estagiária, desenvolvi soluções backend, automações e aplicações com IA generativa.
 
 Sou estudante de **Engenharia de Software** na Universidade Cruzeiro do Sul.
 
 ```python
 class LeticiaLopez:
     def __init__(self):
-        self.role = "Estagiária de Engenharia de Software"
+        self.role = "Engenheira de Software Júnior"
         self.company = "Itaú"
         self.education = "Engenharia de Software - Cruzeiro do Sul"
-        self.stack = ["Node.js", "Python", "Java", "React", "PostgreSQL", "AWS"]
-        self.focus = ["Backend Development", "IA Generativa", "Cloud Computing"]
+        self.stack = ["Java", "Spring Boot", "Kafka", "AWS", "Python", "Node.js", "PostgreSQL"]
+        self.focus = ["Backend Development", "Event-Driven Architecture", "Cloud Computing"]
         self.interests = ["Software Architecture", "Generative AI", "Data Engineering"]
         self.goal = "Construir soluções escaláveis com impacto real"
     
@@ -28,17 +30,41 @@ me = LeticiaLopez()
 me.say_hi()
 ```
 
+## Certificações
+
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ## Stack Tecnológica
 
 ### Backend & Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Mensageria, Cloud & Infra
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Observabilidade
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ### Frontend
 
@@ -55,16 +81,9 @@ me.say_hi()
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Database & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Tools & DevOps
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
@@ -111,7 +130,7 @@ API REST em Java/Spring Boot para análise de risco financeiro.
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://leticiagiovannalopez.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letícia-lopez-789aa9368/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiagiovannalopez/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticiagiovannalopez@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leticiagiovannalopez)
 
